@@ -1,0 +1,6 @@
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\XMLWritingDemo\bin\Debug\XMLWritingDemo.exe.config
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\XMLWritingDemo\bin\Debug\XMLWritingDemo.exe
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\XMLWritingDemo\bin\Debug\XMLWritingDemo.pdb
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\XMLWritingDemo\obj\Debug\XMLWritingDemo.csprojResolveAssemblyReference.cache
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\XMLWritingDemo\obj\Debug\XMLWritingDemo.exe
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\XMLWritingDemo\obj\Debug\XMLWritingDemo.pdb

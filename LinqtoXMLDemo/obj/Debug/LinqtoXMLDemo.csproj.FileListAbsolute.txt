@@ -1,0 +1,6 @@
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\LinqtoXMLDemo\bin\Debug\LinqtoXMLDemo.exe.config
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\LinqtoXMLDemo\obj\Debug\LinqtoXMLDemo.csprojResolveAssemblyReference.cache
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\LinqtoXMLDemo\bin\Debug\LinqtoXMLDemo.exe
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\LinqtoXMLDemo\bin\Debug\LinqtoXMLDemo.pdb
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\LinqtoXMLDemo\obj\Debug\LinqtoXMLDemo.exe
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\LinqtoXMLDemo\obj\Debug\LinqtoXMLDemo.pdb
