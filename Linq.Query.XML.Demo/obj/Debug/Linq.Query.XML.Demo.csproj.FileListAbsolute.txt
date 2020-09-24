@@ -1,0 +1,5 @@
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\Linq.Query.XML.Demo\bin\Debug\Linq.Query.XML.Demo.exe.config
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\Linq.Query.XML.Demo\bin\Debug\Linq.Query.XML.Demo.exe
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\Linq.Query.XML.Demo\bin\Debug\Linq.Query.XML.Demo.pdb
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\Linq.Query.XML.Demo\obj\Debug\Linq.Query.XML.Demo.exe
+C:\Steven\Programming\VisualStudioCommunity\Projects\Learning\XMLDemo\Linq.Query.XML.Demo\obj\Debug\Linq.Query.XML.Demo.pdb
